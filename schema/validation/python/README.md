@@ -8,7 +8,7 @@
 * Rich Instance Tests
     * examples of more complex cases
 * VOTable Test
-    * ??
+    * validates that the mapping schema does not interfer with the current VOTable schema
 
 ### utils ###
 

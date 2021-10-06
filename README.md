@@ -1,10 +1,8 @@
 # Syntax proposal to map VOTable data on VO Model
 
-This proposal has been designed in parallel with the development of MANGO, the model for source data.  
+This proposal is the merge of both annotations proposals tha have been exercised durin the DM workshop held in 2021.  
  
-The objective is to provide a standard that allows to map VOTable data on any VO-DML compliant model. 
-
-The mapping syntax can be used with any other model serialized in VO-DML
+The goal is to provide a standard that allows to map VOTable data on any VO-DML compliant model. 
 
 ### Doc Preview
 

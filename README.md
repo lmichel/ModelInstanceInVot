@@ -29,11 +29,6 @@ An PDF [Preview](https://github.com/ivoa-std/ModelInstanceInVot/releases/downloa
 
 - `doc` : standard document
 - `schema`: XML schema for the mapping syntax (XSD1.1)
-- [python_workflow](https://github.com/ivoa/modelinstanceinvot-code): code sample for exercising the mapping syntax
-    - Mapping component builder 
-    - Example of automatic annotation processor
-    - Annotation validation
-    - Annotated table processing
 
 # Licence
 
